@@ -1,5 +1,5 @@
 # Sharing
-This is just for sharing some texts
+This repo is just for sharing some info
 
 ## HelloWorld Contract Byte Code
 
