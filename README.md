@@ -1,5 +1,7 @@
 # Sharing
 This repo is just for sharing some info
+## Contract Hash
+10c71e010aa2c891dc7db4cf634e44cceb48820e33c6b5a91f85a0f0f0ea816e
 
 ## HelloWorld Contract Byte Code
 
